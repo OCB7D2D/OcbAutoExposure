@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="OcbAutoExposure" />
+	<DisplayName value="OCB Advanced Auto Exposure" />
+	<Description value="Better dynamic auto exposure." />
+	<Website value="https://github.com/OCB7D2D/OcbAutoExposure" />
+	<Author value="ocbMaurice" />
+	<Version value="0.0.1" />
+</xml>
