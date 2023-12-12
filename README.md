@@ -66,7 +66,11 @@ Ensure you don't have double nested folders and ModInfo.xml is at right place!
 
 ## Changelog
 
-### Version 0.1.0
+### Version 0.0.2
+
+- Fix server issue
+
+### Version 0.0.1
 
 - Initial version
 
