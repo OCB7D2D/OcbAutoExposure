@@ -52,4 +52,21 @@
 
   </append>
 
+  <!-- Alternative config by redbeardt
+  <append xpath="/worldglobal/environment">
+      <property name="exposureDownUpSpeed"             value="2,2"/>
+      <property name="exposureLuminanceRange"          value="-8,9"/>
+      <property name="exposureFilterRange"             value="1,99"/>
+      <property name="exposureFactorOutAndInsideDay"   value=".1,.2"/>
+      <property name="exposureFactorOutAndInsideNight" value=".1,1"/>
+      <property name="exposureFactor"                  value="2"/>
+      <property name="exposurePower"                   value="1"/>
+      <property name="exposureMin"                     value="0"/>
+      <property name="exposureMax"                     value="20"/>
+      <property name="exposureOffset"                  value="1"/>
+      <property name="exposureLogBase"                 value="0"/>
+      <property name="exposureFallOffFactor"           value="0"/>
+  </append>
+  -->
+
 </worldglobal>
