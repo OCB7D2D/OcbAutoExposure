@@ -1,4 +1,4 @@
-# OCB Better Auto Exposure Mod - 7 Days to Die (A21) Addon
+# OCB Better Auto Exposure Mod - 7 Days to Die (V1.0 exp) Addon
 
 A small harmony mod adjusting the default auto exposure.
 
@@ -61,7 +61,7 @@ scenes will become a little brighter, but only to a certain extent.
 
 ## Download and Install
 
-[Download from GitHub releases][2] and extract into your A21 Mods folder!  
+[Download from GitHub releases][2] and extract into your Mods folder!  
 Ensure you don't have double nested folders and ModInfo.xml is at right place!
 
 ## Changelog
@@ -73,10 +73,6 @@ Ensure you don't have double nested folders and ModInfo.xml is at right place!
 ### Version 0.0.1
 
 - Initial version
-
-## Compatibility
-
-I've developed and tested this Mod against version a21.2b30.
 
 [1]: https://github.com/OCB7D2D/OcbAutoExposure
 [2]: https://github.com/OCB7D2D/OcbAutoExposure/releases
