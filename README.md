@@ -1,4 +1,4 @@
-# OCB Better Auto Exposure Mod - 7 Days to Die (V1.0 exp) Addon
+# OCB Better Auto Exposure Mod - 7 Days to Die (V1.0) Addon
 
 A small harmony mod adjusting the default auto exposure.
 
@@ -65,6 +65,12 @@ scenes will become a little brighter, but only to a certain extent.
 Ensure you don't have double nested folders and ModInfo.xml is at right place!
 
 ## Changelog
+
+### Version 0.1.0
+
+- Recompile for V1.0 stable (b333)
+- First compatibility with V1.0 (exp)
+- Bumped unity version to 2022.3.29f1
 
 ### Version 0.0.2
 
