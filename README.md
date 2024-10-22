@@ -66,6 +66,10 @@ Ensure you don't have double nested folders and ModInfo.xml is at right place!
 
 ## Changelog
 
+### Version 0.1.1
+
+- Recompile for V1.1 stable (b14)
+
 ### Version 0.1.0
 
 - Recompile for V1.0 stable (b333)
